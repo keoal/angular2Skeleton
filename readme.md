@@ -1,0 +1,1 @@
+# Skeleton Project for angular 2
